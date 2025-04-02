@@ -27,9 +27,9 @@
 </table>
 
 
-This project was done on Google Colab
-----INSTALLATION----
-!pip install -q transformers python-dateutil ics
+This project was done on Google Colab /n
+----INSTALLATION----/n
+!pip install -q transformers python-dateutil ics /n
 !pip install pytz
 
 
